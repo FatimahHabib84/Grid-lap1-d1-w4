@@ -151,8 +151,13 @@
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {
-    
+@media only screen and (min-width: 601px) {
+    body{
+        background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fplatinumlist.net%2Fguide%2Feverything-you-need-to-know-about-img-worlds-of-adventure%2F&psig=AOvVaw1Qfcxk1YYLBtyUrK8rR7dd&ust=1716227933378000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCPlbSlmoYDFQAAAAAdAAAAABAE);
+    }
+    *{
+        color: white;
+    }
 .container{
     display: grid;
     height: 100vh;
@@ -181,122 +186,121 @@
 }
 .i1{
     grid-area: i1;
-    background-color: bisque;
+    background-color: rgb(48, 29, 6);
 }
 .i2{
     grid-area: i2;
-    background-color: rgb(239, 255, 196);
+    background-color: rgb(44, 58, 7);
 }
 
 .i3{
     grid-area: i3;
-    background-color: rgb(196, 255, 201);
+    background-color: rgb(2, 43, 6);
 }
 
 .i4{
     grid-area: i4;
-    background-color: rgb(198, 255, 196);
+    background-color: rgb(9, 56, 8);
 }
 
 .i5{
     grid-area: i5;
-    background-color: rgb(164, 159, 202);
+    background-color: rgb(13, 8, 53);
 }
 
 .i6{
     grid-area: i6;
-    background-color: rgb(201, 163, 165);
+    background-color: rgb(58, 7, 10);
 }
 
 .i7{
     grid-area: i7;
-    background-color: rgb(112, 91, 101);
+    background-color: rgb(44, 6, 24);
 }
 
 .i8{
     grid-area: i8;
-    background-color: rgb(187, 183, 196);
+    background-color: rgb(21, 3, 61);
 }
 
 .i9{
     grid-area: i9;
-    background-color: rgb(116, 155, 167);
+    background-color: rgb(1, 76, 99);
 }
 
 .i10{
     grid-area: i10;
+    color: black;
 }
 
 .i11{
     grid-area: i11;
-    background-color: rgb(74, 83, 48);
+    background-color: rgb(61, 80, 4);
 }
 
 .i12{
     grid-area: i12;
-    background-color: rgb(129, 84, 84);
+    background-color: rgb(73, 3, 3);
 }
 
 .i13{
     grid-area: i13;
-    background-color: rgb(159, 212, 13);
+    background-color: rgb(43, 58, 2);
 }
 
 .i14{
     grid-area: i14;
-    background-color: rgb(25, 51, 107);
+    background-color: rgb(3, 24, 68);
 }
 
 .i15{
     grid-area: i15;
-    background-color: rgb(207, 48, 122);
+    background-color: rgb(78, 6, 40);
 }
 
 .i16{
     grid-area: i16;
-    background-color: rgb(214, 228, 22);
+    background-color: rgb(57, 61, 1);
 }
 
 .i17{
     grid-area: i17;
-    background-color: rgb(36, 123, 163);
+    background-color: rgb(3, 50, 71);
 }
 
 .i18{
     grid-area: i18;
-    background-color: rgb(51, 42, 25);
-    color: white;
+    background-color: rgb(63, 42, 4);
 }
 
 .i19{
     grid-area: i19;
-    background-color: rgb(207, 130, 14);
+    background-color: rgb(73, 45, 2);
 }
 
 .i20{
     grid-area: i20;
-    background-color: rgb(68, 70, 64);
-    color: white;
+    background-color: rgb(25, 27, 20);
 }
 
 .i21{
     grid-area: i21;
-    background-color: rgb(80, 95, 37);
+    background-color: rgb(28, 37, 3);
 }
 
 .i22{
     grid-area: i22;
-    background-color: rgb(77, 23, 138);
+    background-color: rgb(34, 6, 66);
 }
 
 .i23{
     grid-area: i23;
-    background-color: rgb(250, 139, 194);
+    background-color: rgb(66, 3, 34);
 }
 
 .i24{
     grid-area: i24;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(66, 3, 3);
 }
 }
 
